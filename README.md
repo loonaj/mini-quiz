@@ -6,4 +6,7 @@ Mode Quiz is a quiz that demonstrates using JavaScript code to use Web APIs. It 
 ![screen shot of the mock-up website](./assets/images/04-web-apis-homework-demo.gif)
 
 ## Live Link
-[Mode Quiz]
+[mini Quiz]
+
+https://loonaj.github.io/mini-quiz/
+
